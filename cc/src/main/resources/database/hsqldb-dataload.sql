@@ -1,0 +1,1 @@
+INSERT INTO CHAT_ROOM VALUES('1001','test','test');
